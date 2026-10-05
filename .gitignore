@@ -1,0 +1,9 @@
+*.log
+.vscode/
+Thumbs.db
+Desktop.ini
+*.sql
+.env
+.env.*
+*.tmp
+*.temp
